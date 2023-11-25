@@ -1,4 +1,4 @@
-### Twitter Bot Retweet
+# Twitter Bot Retweet
 ## Overview
 This Python script twitterbot_retweet.py is designed to automate retweeting, liking tweets, and following users on Twitter based on specified configurations.
 
